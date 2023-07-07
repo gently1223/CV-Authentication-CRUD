@@ -1,0 +1,6 @@
+Django
+djangorestframework
+PyJWT
+django-cors-headers
+gunicorn
+django-environ
